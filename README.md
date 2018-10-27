@@ -43,6 +43,9 @@
 | Emmet Cheatsheet | Useful for learning emmet shortcuts    | https://websitesetup.org/html5-cheat-sheet/ |
 | Can I Use        | Cross browser compatibility            | https://caniuse.com/)                       |
 | Google Fonts     | Wide range of usable fonts from google | https://fonts.google.com/                   |
+| Open Graph       | Facebook Protocol for Meta-Tags        | http://ogp.me/                              |
+| WebAIM           | Web Accessibility Checkers             | https://webaim.org/                         |
+| Color Safe       | Accessible Color Contrast Checker      | http://colorsafe.co/                        |
 
 #### CSS Resources
 
@@ -108,6 +111,7 @@
 | Videovo   | Free Stock Videos         | https://www.videvo.net/ |
 | Pixabay   | More free images          | https://pixabay.com/en/ |
 | StockSnap | High resolution free imgs | https://stocksnap.io/   |
+| Picsum    | Placeholder Images by Size| https://picsum.photos/  |
 
 **Places to look for Free Icons**
 
@@ -122,6 +126,7 @@
 | Material Design Icons | Free SVG Material Icons         | https://material.io/tools/icons/ |
 | World Vector Logos    | Free SVG Vector Logos           | https://worldvectorlogo.com/     |
 | Icon Finder           | A Free search engine for icons  | https://www.iconfinder.com/      |
+| The Noun Project      | Aggregates & Catalogs Symbols   | https://thenounproject.com/      |
 
 ### Back End Resources
 
@@ -145,8 +150,8 @@
 | Name                | Description 📓                                   | Link ↘️                                          |
 | ------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | Canva               | Create graphic designs online                    | https://www.canva.com                            |
-| Dribble             | Inspiration for designers                        | https://dribbble.com/                            |
-| Behanced            | Showcase and Look at other peoples creative work | https://www.behance.net/                         |
+| Dribbble            | Inspiration for designers                        | https://dribbble.com/                            |
+| Behance             | Showcase and Look at other peoples creative work | https://www.behance.net/                         |
 | Creative Portfolios | A curated list of creative portfolios            | http://www.creative-portfolios.com/              |
 | Adobe XD            | Adobe XD for UI Designs, free version available  | https://www.adobe.com/au/products/xd.html        |
 | Photoshop           | Photo Manipulation Software                      | https://www.adobe.com/au/products/photoshop.html |
@@ -155,6 +160,8 @@
 | Figma               | Collaborative Design tool with prototyping       | https://www.figma.com/                           |
 | Sketch              | Design tool exclusive to MacOS                   | https://www.sketchapp.com/                       |
 | Gravit Designer     | Cross Platform Design Tool                       | https://www.designer.io/                         |
+| Coolors             | Color Scheme Generator                           | https://coolors.co/                              |
+| Awwwards            | Internet Awards of Design & Creativity           | https://www.awwwards.com/                        |
 | Coolors             | Color Scheme Generator                           | https://coolors.co/                              |
 
 ### Youtube Channels
